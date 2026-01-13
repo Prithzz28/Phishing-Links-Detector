@@ -1,5 +1,5 @@
 # 🛡️ Phishing URL Detection System
-**Author- Avaneesh Inamdar, Team ZeroPhish**
+**Author- Avaneesh Inamdar**<br>
 **Team ZeroPhish – Walchand College of Engineering, Sangli**
 
 A complete machine learning system for detecting phishing URLs with a web interface built using Flask.
